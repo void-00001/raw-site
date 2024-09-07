@@ -1,0 +1,54 @@
+baseURL = 'https://nyx-void.github.io/'
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+languageCode = 'en-us'
+title = 'void'
+theme = 'hugo-classic'
+buildDrafts = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[permalinks]
+post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+name = "Writings"
+url = "/writing/"
+weight = 1
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 2
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 3
+[[menu.feed]]
+name = "gitlab"
+url = "https://gitlab.com/amrit-44404"
+weight = 2
+[[menu.feed]]
+name = "Rss"
+url = "/index.xml"
+weight = 1
+
+[params]
+custom_css = ["css/theme-override.css"]
+description = "A simple, minimal blog for those who love text."
+footer = "« Be Excellent to Each Other »"
