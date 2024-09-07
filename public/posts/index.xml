@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on void</title>
+    <link>https://nyx-void.github.io/posts/</link>
+    <description>Recent content in Posts on void</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nyx-void.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Student&#39;s Tale: Navigating College and Code</title>
+      <link>https://nyx-void.github.io/posts/second-post/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nyx-void.github.io/posts/second-post/</guid>
+      <description>&lt;p&gt;and the occasional crush. As a BCA student at Butwal Kalika Campus,&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m diving headfirst into the world of computer science. C++ is my weapon of choice, and I&amp;rsquo;m constantly sharpening my skills to tackle the challenges ahead.&lt;/p&gt;&#xA;&lt;p&gt;Follow along as I juggle assignments, projects, and maybe even a little romance.&lt;/p&gt;&#xA;&lt;p&gt;#BCAStudent #C&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Embrace the challenges ahead as opportunities for growth. Like sharpening a blade, each obstacle in the world of computer science hones our skills and fortifies our resolve.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Embracing the Linux Lifestyle</title>
+      <link>https://nyx-void.github.io/posts/first-post/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nyx-void.github.io/posts/first-post/</guid>
+      <description>&lt;p&gt;Say hello to efficiency and customization with Linux! As an avid Arch Linux user, I&amp;rsquo;ve found the perfect balance of performance and flexibility.&lt;/p&gt;&#xA;&lt;p&gt;From tweaking system configurations to exploring the depths of the command line, every day is a new adventure.&lt;/p&gt;&#xA;&lt;p&gt;Join me on the journey to open-source greatness!&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;#ArchLinux #OpenSource #Efficiency&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;Download GNU Arch linux and get ready for clean UI experience.(BTW)&lt;/code&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-Download&#34; data-lang=&#34;Download&#34;&gt;Certainly! For more information, please visit the following URL&#xA;&#xA;$&amp;gt;  https://archlinux.org/&#xA;&lt;/code&gt;&lt;/pr</description>
+    </item>
+    <item>
+      <title>Software Development</title>
+      <link>https://nyx-void.github.io/posts/fourth_post/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nyx-void.github.io/posts/fourth_post/</guid>
+      <description>&lt;h4 id=&#34;simplicity-is-core-to-my-software-development-because-it-leads-to&#34;&gt;Simplicity is core to my software development, because it leads to;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;fewer bugs,&lt;/li&gt;&#xA;&lt;li&gt;better performance,&lt;/li&gt;&#xA;&lt;li&gt;lower memory footprint,&lt;/li&gt;&#xA;&lt;li&gt;better maintainability,&lt;/li&gt;&#xA;&lt;li&gt;higher scalability,&lt;/li&gt;&#xA;&lt;li&gt;longer software lifetime,&lt;/li&gt;&#xA;&lt;li&gt;prompt delivery;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;…all of which lead to a better quality finished product.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Heart&#39;s Melody: Musings on Crushes</title>
+      <link>https://nyx-void.github.io/posts/third-post/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nyx-void.github.io/posts/third-post/</guid>
+      <description>&lt;p&gt;The journey of a crush is a captivating one. It&amp;rsquo;s a journey filled with wonder and uncertainty, where every interaction becomes a treasure to cherish.&lt;/p&gt;&#xA;&lt;p&gt;So next time you find yourself lost in a sea of crimson, embrace the moment with a wink and a smile. After all, blushing is simply your heart&amp;rsquo;s way of saying,&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Live a life that&amp;rsquo;s both chill and meaningful - find moments of serenity amidst the chaos, and purpose in every step you take. Embrace the journey, savor the small joys, and inspire others along the way.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

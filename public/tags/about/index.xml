@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on void</title>
+    <link>https://nyx-void.github.io/tags/about/</link>
+    <description>Recent content in About on void</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://nyx-void.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://nyx-void.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nyx-void.github.io/about/</guid>
+      <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;/h2&gt;&#xA;&lt;p&gt;I am an open-source enthusiast and dedicated programmer with a passion for crafting elegant and efficient code. My primary programming languages are Rust and C, which I use to create software that is both reliable and performant.&lt;/p&gt;&#xA;&lt;p&gt;I am deeply committed to the principles of minimalism, particularly in software development. My expertise lies in designing solutions that are straightforward yet powerful, ensuring that they are easy to maintain and deliver exceptional performance.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
